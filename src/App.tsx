@@ -1,3 +1,8 @@
+import Flow from './pages/Flow';
 export default function App() {
-  return <div />;
+  return (
+    <div>
+      <Flow />
+    </div>
+  );
 }
